@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2126155b-df2e-4e52-9140-8eb267d50042" name="Default Changelist" comment="start development">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/fonts/ofont.ru_Muller.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/antDesign.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/ava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/bootstrap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/icon-basketball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/icon-education.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/rect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/Avatar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/AvatarInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/SN/SN.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/EndSlideInfo/EndSlideInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/EndSlideInfo/Game/Game.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideInfo/SlideInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideOne.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideThree.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideTwo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/Name/Name.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/Name/Name.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/mode/ModeContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/mode/ModeState.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/mode/modeReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/slides/SlidesContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/slides/SlidesState.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/slides/slidesReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/src/js/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fleaN6cOTKUrEYTUSLtJz0yiFr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\portfolio\my-portfolio\src\common\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2126155b-df2e-4e52-9140-8eb267d50042" name="Default Changelist" comment="" />
+      <created>1596797168981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596797168981</updated>
+      <workItem from="1596797171834" duration="9062000" />
+      <workItem from="1596824486145" duration="15832000" />
+      <workItem from="1596882776101" duration="41639000" />
+      <workItem from="1597070542626" duration="11519000" />
+      <workItem from="1597088417262" duration="9133000" />
+    </task>
+    <task id="LOCAL-00001" summary="start development">
+      <created>1596797267983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596797267983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="start development" />
+    <option name="LAST_COMMIT_MESSAGE" value="start development" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596797450786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596797450786" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597088690257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597088690257" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596797270868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596797270868" />
+    <state x="390" y="0" width="585" height="801" key="find.popup" timestamp="1596838664829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="801" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1596838664829" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1597074903234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597074903234" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597089755782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597089755782" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.jsx</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
