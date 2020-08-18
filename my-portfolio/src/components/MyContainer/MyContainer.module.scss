@@ -215,7 +215,9 @@
     opacity: 1;
   }
 }
-
+.mobileButton{
+  display: none;
+}
 .avatarBlock{
   position: absolute;
   top:10vh;
@@ -336,6 +338,327 @@
           cursor:pointer;
           transform: scale(1.1);
           color: #eeee36;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .mobileButton{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    z-index: 10000000;
+    display: block;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    img{
+      width: 101%;
+    }
+    svg{
+      color: white;
+      font-size: 25px;
+    }
+  }
+  .mobileButton:hover{
+    cursor: pointer;
+  }
+  .avatarBlock{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0;
+    z-index: 1000000;
+    overflow: hidden;
+    width: 60px;
+    height: 60px;
+    background-color: #c7c5c5;
+    animation: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  @keyframes mobileAva {
+    0%{
+      width: 100vw;
+      height: 100vh;
+    }
+    100%{
+      width: 100vw;
+      height: 100vh;
+    }
+  }
+  .avatarBlockClosed{
+    display: none;
+  }
+  .avatarBlockOpened{
+    width: 100vw;
+    height: 100vh;
+    transition: all 1.5s ease-out;
+  }
+  .avatarInfo {
+    .educationBlock {
+      p {
+        font-size: 14px;
+      }
+      span {
+        width: 25px;
+        height: 25px;
+
+        img {
+          width: 25px;
+        }
+      }
+    }
+    .basketballBlock {
+      p {
+        font-size: 14px;
+      }
+
+      span {
+        width: 25px;
+        height: 25px;
+
+        img {
+          width: 25px;
+        }
+      }
+    }
+  }
+  .endSlideInfo{
+    padding-left: 6vw !important;
+    width: 100% !important;
+    .game{
+    }
+    h1{
+    }
+    .additBlock{
+      padding-top: 2vh !important;
+    }
+  }
+  .slideInfo{
+    padding-left: 6vw;
+    width: 100%;
+    ul{
+      width: 80%;
+      li{
+        height: calc((100vw - 15vh)*0.80/3);
+        img{
+          width: 100%;
+          min-width: 100%;
+          height: calc((100vw - 15vh)*0.80/3);
+        }
+      }
+    }
+    .gitHubBlock{
+      padding-top: 2vh;
+    }
+  }
+  .endSlideInfo{
+    width: 100vw !important;
+    float: left;
+  }
+}
+
+@media screen and (max-width: 670px) {
+  .slideInfo{
+    h1{
+      font-size: 60px;
+      line-height: 45px;
+    }
+  }
+  .endSlideInfo{
+    padding-right:0 !important;
+    .game{
+    }
+    h1{
+      font-size: 60px !important;
+      line-height: 46px !important;
+    }
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .endSlideInfo{
+    padding-right:0 !important;
+    .game{
+    }
+    h1{
+      font-size: 50px !important;
+      line-height: 39px !important;
+      margin-bottom: 10px !important;
+    }
+  }
+  .slideInfo{
+    padding-right:0;
+    h1{
+      font-size: 50px;
+      line-height: 38px;
+    }
+    ul{
+      width: 90%;
+      li{
+        height: calc((94vw)*0.9/3);
+        img{
+          width: 100%;
+          min-width: 100%;
+          height: calc((94vw)*0.9/3);
+        }
+        div{
+          width: 110%;
+          height: 110%;
+          p{
+            font-size: 18px;
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 400px) {
+  .endSlideInfo{
+    padding-left: 3vw !important;
+    .game{
+      border-bottom: 15px white solid !important;
+    }
+    h1{
+      font-size: 45px !important;
+      line-height: 35px !important;
+      margin-bottom: 30px !important;
+    }
+    .additBlock{
+      padding-top: 8vh !important;
+      p{
+        a{
+          font-size: 15px !important;
+        }
+      }
+    }
+  }
+  .slideInfo {
+    padding-left: 3vw;
+    h1 {
+      font-size: 45px;
+      line-height: 35px;
+    }
+    .gitHubBlock{
+      p{
+        a{
+          font-size: 15px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 360px) {
+  .slideInfo {
+    h1 {
+      font-size: 40px;
+      line-height: 32px;
+    }
+  }
+  .endSlideInfo {
+    h1 {
+      font-size: 40px !important;
+      line-height: 32px !important;
+    }
+  }
+}
+@media screen and (max-width: 320px) {
+  .slideInfo {
+    h1 {
+      font-size: 36px;
+      line-height: 29px;
+    }
+  }
+  .endSlideInfo {
+    h1 {
+      font-size: 36px !important;
+      line-height: 29px !important;
+    }
+    .additBlock{
+      padding-top: 4vh !important;
+      p{
+        a{
+          font-size: 12px !important;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-height: 450px) {
+  .endSlideInfo {
+    padding-right:0 !important;
+    h1 {
+      display: none;
+    }
+    .game{
+      border-bottom: 3vh white solid !important;
+    }
+    .additBlock{
+      p{
+        margin-top: -2vh !important;
+        a{
+          font-size: 3vh !important;
+        }
+      }
+    }
+  }
+  .slideInfo{
+    padding-right:0;
+    h1{
+      font-size: 14vh;
+      line-height: 11.5vh;
+      margin-bottom: 2vh;
+    }
+    ul{
+      width: 100vh;
+      li{
+        height: calc(100vh/3);
+        img{
+          width: 100%;
+          min-width: 100%;
+          height: calc(100vh/3);
+        }
+        div{
+          width: 110%;
+          height: 110%;
+          p{
+            font-size: 18px;
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-height: 380px) {
+  .avatarBlock{
+    .avatar{
+      height: 20vw;
+      width: 20vw;
+      min-width: 120px;
+      min-height: 120px;
+      img{
+        width: 21vw;
+        min-width: 120px;
+      }
+    }
+  }
+  .endSlideInfo {
+    .additBlock{
+      p{
+        float: right !important;
+        margin-top: -10vh !important;
+        margin-right: 5vw;
+        a{
+          font-size: 3vh !important;
         }
       }
     }

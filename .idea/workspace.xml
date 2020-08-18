@@ -11,38 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2126155b-df2e-4e52-9140-8eb267d50042" name="Default Changelist" comment="start development">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/fonts/ofont.ru_Muller.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/antDesign.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/ava.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/bootstrap.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/icon-basketball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/icon-education.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/common/images/rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/Avatar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/AvatarInfo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/SN/SN.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/EndSlideInfo/EndSlideInfo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/EndSlideInfo/Game/Game.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideInfo/SlideInfo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideOne.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideThree.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/SlideTwo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/Name/Name.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/components/Name/Name.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/mode/ModeContext.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/mode/ModeState.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/mode/modeReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/slides/SlidesContext.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/slides/SlidesState.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/context/slides/slidesReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-portfolio/src/js/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-portfolio/public/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/Avatar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/Avatar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/AvatarInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/AvatarInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/SN/SN.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/Avatar/AvatarInfo/SN/SN.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/MyContainer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/EndSlideInfo/Game/Game.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/MyContainer/slides/EndSlideInfo/Game/Game.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-portfolio/src/components/Name/Name.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/my-portfolio/src/components/Name/Name.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app" />
+    <property name="last_opened_file_path" value="$USER_HOME$/billiard" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -89,7 +71,12 @@
       <workItem from="1596824486145" duration="15832000" />
       <workItem from="1596882776101" duration="41639000" />
       <workItem from="1597070542626" duration="11519000" />
-      <workItem from="1597088417262" duration="9133000" />
+      <workItem from="1597088417262" duration="9286000" />
+      <workItem from="1597134271839" duration="3353000" />
+      <workItem from="1597224283997" duration="14577000" />
+      <workItem from="1597312606064" duration="14881000" />
+      <workItem from="1597399081153" duration="12311000" />
+      <workItem from="1597429987960" duration="2817000" />
     </task>
     <task id="LOCAL-00001" summary="start development">
       <created>1596797267983</created>
@@ -126,10 +113,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596797450786" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597088690257">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597228806432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597088690257" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597228806432" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596797270868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -142,10 +129,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597074903234" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597089755782">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597313816745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597089755782" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597313816745" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

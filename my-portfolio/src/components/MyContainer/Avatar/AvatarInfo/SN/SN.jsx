@@ -33,7 +33,7 @@ const SN = () => {
                 {(isClosed && isAnim)?<RightSquareOutlined />:<CloseSquareOutlined />}
             </div>
             <div className={style.SNlist + ` ${!isClosed?style.SNlistFull:style.SNlistShort}`}>
-                <a href={'#'}>
+                <a href={'#'} onClick={()=>{window.clipboardData.setData("Text","Текст для копирования")}}>
                     <GithubOutlined />
                 </a>
                 <a href={'#'}>

@@ -18,3 +18,10 @@
     transform: translateX(0);
   }
 }
+
+@media screen and (max-width: 1100px) {
+  .name{
+    font-size: 16.5px;
+    line-height: 60px;
+  }
+}
