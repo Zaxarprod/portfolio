@@ -3,6 +3,10 @@ import {SlidesContext} from "./SlidesContext";
 import {slidesReducer} from "./slidesReducer";
 import antDesign from './../../common/images/antDesign.jpg'
 import bootstrap from './../../common/images/bootstrap.jpg'
+import reduxImg from './../../common/images/reduxImg.png'
+import reactImg from './../../common/images/reactImg.webp'
+import tsImg from './../../common/images/tsImg.png'
+import reactStrapImg from './../../common/images/reactStrapImg.webp'
 
 const SlidesState = ({children}) => {
     let initialState = {
@@ -11,15 +15,15 @@ const SlidesState = ({children}) => {
                 header: 'FRONT-END|DEVELOPER',
                 images: [
                     {
-                        src: 'https://storage.codedojo.ru/topics/typescript.png',
+                        src: tsImg,
                         name: 'Typescript',
                     },
                     {
-                        src: 'https://im0-tub-ru.yandex.net/i?id=52b3fdbcfcec12d5da459ce2b6a9a8dd&n=13',
+                        src: reactImg,
                         name: 'React.js',
                     },
                     {
-                        src: 'https://www.pngitem.com/pimgs/m/24-241225_redux-logo-svg-hd-png-download.png',
+                        src: reduxImg,
                         name: 'Redux',
                     },
                 ],
@@ -40,7 +44,7 @@ const SlidesState = ({children}) => {
                         name: 'Bootstrap',
                     },
                     {
-                        src: 'https://im0-tub-ru.yandex.net/i?id=2bb42edaee0e15ecc4b791aab1014b51&n=13',
+                        src: reactStrapImg,
                         name: 'Reactstrap',
                     },
                 ],
